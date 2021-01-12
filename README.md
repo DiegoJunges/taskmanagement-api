@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Express Application for GoBarber project
+  NestJS Application API to manage tasks.
 </h3>
 
 <p align="center">The best way to manage tasks!</p>
