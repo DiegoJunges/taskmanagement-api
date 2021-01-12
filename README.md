@@ -39,7 +39,7 @@ This api provides everything needed to manage tasks.
 Technologies that I used to develop this api
 
 - [Node.js](https://nodejs.org/en/)
-- [Nest.js](- [Node.js](https://nodejs.org/en/)
+- [Nest.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TypeORM](https://typeorm.io/#/)
 - [JWT-token](https://jwt.io/)
