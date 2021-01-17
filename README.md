@@ -98,7 +98,7 @@ $ yarn
 $ cp .env.example .env
 
 # Create the instance of postgreSQL using docker
-$ docker run --name gobarber-postgres -e POSTGRES_USER=docker \
+$ docker run --name postgres -e POSTGRES_USER=docker \
               -e POSTGRES_DB=gobarber -e POSTGRES_PASSWORD=docker \
               -p 5432:5432 -d postgres
 
